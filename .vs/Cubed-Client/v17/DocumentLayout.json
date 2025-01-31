@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\Renderer\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|solutionrelative:Cubed-Client\\Source\\Renderer\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\Renderer\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|solutionrelative:Cubed-Client\\Source\\Renderer\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\ClientLayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|solutionrelative:Cubed-Client\\Source\\ClientLayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\ClientLayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|solutionrelative:Cubed-Client\\Source\\ClientLayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\CubedApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|solutionrelative:Cubed-Client\\Source\\CubedApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|D:\\VULKANSDK\\1.4.304.0\\INCLUDE\\GLM\\GTX\\EULER_ANGLES.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xtree||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Assets\\Shaders\\basic.frag.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|solutionrelative:Cubed-Client\\Assets\\Shaders\\basic.frag.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Assets\\Shaders\\basic.vert.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|solutionrelative:Cubed-Client\\Assets\\Shaders\\basic.vert.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Assets\\Shaders\\Compile.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|solutionrelative:Cubed-Client\\Assets\\Shaders\\Compile.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C038E8D9-ACDA-12B0-9595-260481D69900}|Walnut\\Walnut\\Walnut.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Walnut\\Walnut\\Platform\\GUI\\Walnut\\ImGui\\ImGuiBuild.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C038E8D9-ACDA-12B0-9595-260481D69900}|Walnut\\Walnut\\Walnut.vcxproj|solutionrelative:Walnut\\Walnut\\Platform\\GUI\\Walnut\\ImGui\\ImGuiBuild.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\Renderer\\Vulkan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|solutionrelative:Cubed-Client\\Source\\Renderer\\Vulkan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C038E8D9-ACDA-12B0-9595-260481D69900}|Walnut\\Walnut\\Walnut.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Walnut\\Walnut\\Platform\\GUI\\Walnut\\ApplicationGUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C038E8D9-ACDA-12B0-9595-260481D69900}|Walnut\\Walnut\\Walnut.vcxproj|solutionrelative:Walnut\\Walnut\\Platform\\GUI\\Walnut\\ApplicationGUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C038E8D9-ACDA-12B0-9595-260481D69900}|Walnut\\Walnut\\Walnut.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Walnut\\Walnut\\Platform\\GUI\\Walnut\\ApplicationGUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C038E8D9-ACDA-12B0-9595-260481D69900}|Walnut\\Walnut\\Walnut.vcxproj|solutionrelative:Walnut\\Walnut\\Platform\\GUI\\Walnut\\ApplicationGUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\Renderer\\Vulkan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{144EB212-00B1-41B7-A936-7A6D95780D3A}|Cubed-Client\\Cubed-Client.vcxproj|solutionrelative:Cubed-Client\\Source\\Renderer\\Vulkan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "xtree",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xtree",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xtree",
+              "ViewState": "AgIAAEwGAAAAAAAAAAAswFoGAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-31T08:52:27.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "compatibility.inl",
+              "DocumentMoniker": "D:\\VulkanSDK\\1.4.304.0\\Include\\glm\\gtx\\euler_angles.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\VulkanSDK\\1.4.304.0\\Include\\glm\\gtx\\euler_angles.hpp",
+              "ToolTip": "D:\\VulkanSDK\\1.4.304.0\\Include\\glm\\gtx\\euler_angles.hpp",
+              "RelativeToolTip": "..\\..\\..\\..\\VulkanSDK\\1.4.304.0\\Include\\glm\\gtx\\euler_angles.hpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T07:17:23.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\Renderer\\Renderer.h",
+              "RelativeDocumentMoniker": "Cubed-Client\\Source\\Renderer\\Renderer.h",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\Renderer\\Renderer.h",
+              "RelativeToolTip": "Cubed-Client\\Source\\Renderer\\Renderer.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-30T16:08:36.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\Renderer\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Cubed-Client\\Source\\Renderer\\Renderer.cpp",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\Renderer\\Renderer.cpp",
+              "RelativeToolTip": "Cubed-Client\\Source\\Renderer\\Renderer.cpp",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T08:14:18.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImGuiBuild.cpp",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Walnut\\Walnut\\Platform\\GUI\\Walnut\\ImGui\\ImGuiBuild.cpp",
+              "RelativeDocumentMoniker": "Walnut\\Walnut\\Platform\\GUI\\Walnut\\ImGui\\ImGuiBuild.cpp",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Walnut\\Walnut\\Platform\\GUI\\Walnut\\ImGui\\ImGuiBuild.cpp",
+              "RelativeToolTip": "Walnut\\Walnut\\Platform\\GUI\\Walnut\\ImGui\\ImGuiBuild.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T16:04:01.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Compile.bat",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Assets\\Shaders\\Compile.bat",
+              "RelativeDocumentMoniker": "Cubed-Client\\Assets\\Shaders\\Compile.bat",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Assets\\Shaders\\Compile.bat",
+              "RelativeToolTip": "Cubed-Client\\Assets\\Shaders\\Compile.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2025-01-30T13:16:04.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "basic.frag.glsl",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Assets\\Shaders\\basic.frag.glsl",
+              "RelativeDocumentMoniker": "Cubed-Client\\Assets\\Shaders\\basic.frag.glsl",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Assets\\Shaders\\basic.frag.glsl",
+              "RelativeToolTip": "Cubed-Client\\Assets\\Shaders\\basic.frag.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-30T12:51:53.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "basic.vert.glsl",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Assets\\Shaders\\basic.vert.glsl",
+              "RelativeDocumentMoniker": "Cubed-Client\\Assets\\Shaders\\basic.vert.glsl",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Assets\\Shaders\\basic.vert.glsl",
+              "RelativeToolTip": "Cubed-Client\\Assets\\Shaders\\basic.vert.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-30T12:51:44.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vulkan.h",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\Renderer\\Vulkan.h",
+              "RelativeDocumentMoniker": "Cubed-Client\\Source\\Renderer\\Vulkan.h",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\Renderer\\Vulkan.h",
+              "RelativeToolTip": "Cubed-Client\\Source\\Renderer\\Vulkan.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-30T08:35:25.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vulkan.cpp",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\Renderer\\Vulkan.cpp",
+              "RelativeDocumentMoniker": "Cubed-Client\\Source\\Renderer\\Vulkan.cpp",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\Renderer\\Vulkan.cpp",
+              "RelativeToolTip": "Cubed-Client\\Source\\Renderer\\Vulkan.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T08:40:20.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationGUI.cpp",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Walnut\\Walnut\\Platform\\GUI\\Walnut\\ApplicationGUI.cpp",
+              "RelativeDocumentMoniker": "Walnut\\Walnut\\Platform\\GUI\\Walnut\\ApplicationGUI.cpp",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Walnut\\Walnut\\Platform\\GUI\\Walnut\\ApplicationGUI.cpp",
+              "RelativeToolTip": "Walnut\\Walnut\\Platform\\GUI\\Walnut\\ApplicationGUI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T07:07:09.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationGUI.h",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Walnut\\Walnut\\Platform\\GUI\\Walnut\\ApplicationGUI.h",
+              "RelativeDocumentMoniker": "Walnut\\Walnut\\Platform\\GUI\\Walnut\\ApplicationGUI.h",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Walnut\\Walnut\\Platform\\GUI\\Walnut\\ApplicationGUI.h",
+              "RelativeToolTip": "Walnut\\Walnut\\Platform\\GUI\\Walnut\\ApplicationGUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-30T06:38:32.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientLayer.h",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\ClientLayer.h",
+              "RelativeDocumentMoniker": "Cubed-Client\\Source\\ClientLayer.h",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\ClientLayer.h",
+              "RelativeToolTip": "Cubed-Client\\Source\\ClientLayer.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-28T13:45:06.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientLayer.cpp",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\ClientLayer.cpp",
+              "RelativeDocumentMoniker": "Cubed-Client\\Source\\ClientLayer.cpp",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\ClientLayer.cpp",
+              "RelativeToolTip": "Cubed-Client\\Source\\ClientLayer.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T13:45:16.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CubedApp.cpp",
+              "DocumentMoniker": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\CubedApp.cpp",
+              "RelativeDocumentMoniker": "Cubed-Client\\Source\\CubedApp.cpp",
+              "ToolTip": "D:\\Chirag\\Projects\\C\u002B\u002B\\Cubed\\Cubed-Client\\Source\\CubedApp.cpp",
+              "RelativeToolTip": "Cubed-Client\\Source\\CubedApp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T07:22:08.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
